@@ -38,11 +38,11 @@ a {
 input{
   background-color: rgb(38, 48, 60);
     width: 100%;
-    max-width: 350px;
+    max-width: 400px;
     color: rgb(121, 184, 255);
     font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace;
-    font-size: 1.5  rem;
-    font-weight: 100;
+    font-size: 1.8rem;
+    font-weight: 300;
     text-align: center;
     outline: 0px;
     border-width: 0px;

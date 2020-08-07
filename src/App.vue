@@ -2,16 +2,19 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/GitHub-Mark.png">
     <HelloWorld msg="Git-Plus"/>
+    <GithubApi/>
   </div>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import GithubApi from './components/GithubApi.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
+    GithubApi
   }
 }
 </script>
